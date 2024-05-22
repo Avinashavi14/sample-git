@@ -1,1 +1,2 @@
-Hi everyone
+Let’s take a scenario where we are moving gfg.py to code/gfg.py using the above command. Here is the terminal shell pictorial depiction after executing the above commands as follows:  
+
